@@ -20,7 +20,7 @@ com banco de dados MySQL.
 1. Clone o repositório  
    ```bash
    git clone https://github.com/carolrabello/ecommerce-crud.git
-2. Importe o arquivo database/maxipackbd.sql no MySQL
+2. Importe o arquivo maxipackbd.sql no MySQL
 3. Rode em um servidor local (ex: XAMPP, WAMP ou Laragon)
 
 ## 📌 Próximos passos
